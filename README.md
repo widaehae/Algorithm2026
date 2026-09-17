@@ -1,5 +1,7 @@
 SelectionSorting
+
 <img width="491" height="774" alt="스크린샷 2026-09-17 오후 1 49 51" src="https://github.com/user-attachments/assets/0562af14-d9cc-40c1-9618-95032445ed76" />
+
 BubbleSorting
 <img width="483" height="772" alt="스크린샷 2026-09-17 오후 1 48 40" src="https://github.com/user-attachments/assets/7876e551-8b17-4578-a1f5-2ab5e5f69afa" />
 InsertionSorting
