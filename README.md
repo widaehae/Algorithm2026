@@ -1,3 +1,7 @@
+Sorting Animation
+
+<img width="1406" height="1164" alt="video" src="https://github.com/user-attachments/assets/9254f03e-386c-48f4-80a8-2ace9b70447d" />
+
 SelectionSorting
 
 <img width="491" height="774" alt="스크린샷 2026-09-17 오후 1 49 51" src="https://github.com/user-attachments/assets/0562af14-d9cc-40c1-9618-95032445ed76" />
