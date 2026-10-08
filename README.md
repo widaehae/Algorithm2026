@@ -1,6 +1,6 @@
 Sorting Animation
 
-<img width="1406" height="1164" alt="video" src="https://github.com/user-attachments/assets/9254f03e-386c-48f4-80a8-2ace9b70447d" />
+<img width="1392" height="1182" alt="video" src="https://github.com/user-attachments/assets/702a237f-3801-4919-bcd1-fe489ea8509f" />
 
 SelectionSorting
 
