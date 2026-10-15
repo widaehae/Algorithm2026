@@ -1,3 +1,9 @@
+Binary Search Tree
+
+<img width="692" height="669" alt="1" src="https://github.com/user-attachments/assets/0066a503-9003-4af2-bb4f-69b0f9ce69e6" />
+
+<img width="1200" height="624" alt="2" src="https://github.com/user-attachments/assets/00a43ce6-1388-4094-a4d4-15fc37c5d773" />
+
 Sorting Animation
 
 <img width="1392" height="1182" alt="video" src="https://github.com/user-attachments/assets/702a237f-3801-4919-bcd1-fe489ea8509f" />
