@@ -1,3 +1,7 @@
+infix to postfix calculator using stack
+
+<img width="743" height="917" alt="3" src="https://github.com/user-attachments/assets/dc57d3c5-e967-4d58-9f0e-042e7821cb94" />
+
 Binary Search Tree
 
 <img width="692" height="669" alt="1" src="https://github.com/user-attachments/assets/0066a503-9003-4af2-bb4f-69b0f9ce69e6" />
