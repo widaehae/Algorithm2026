@@ -1,3 +1,7 @@
+Pebble Placement Problem
+
+<img width="767" height="705" alt="4" src="https://github.com/user-attachments/assets/37d77d9e-024d-46eb-8190-888ca2095fea" />
+
 infix to postfix calculator using stack
 
 <img width="743" height="917" alt="3" src="https://github.com/user-attachments/assets/dc57d3c5-e967-4d58-9f0e-042e7821cb94" />
