@@ -1,3 +1,9 @@
+BFS and DFS for a graph 
+
+<img width="694" height="598" alt="1" src="https://github.com/user-attachments/assets/f66d210c-cc91-47a3-b932-d35c22ffe0c6" />
+
+<img width="695" height="605" alt="2" src="https://github.com/user-attachments/assets/c21f8b59-243c-4238-8634-508f7b3faeed" />
+
 Pebble Placement Problem
 
 <img width="767" height="705" alt="4" src="https://github.com/user-attachments/assets/37d77d9e-024d-46eb-8190-888ca2095fea" />
