@@ -1,3 +1,7 @@
+Minimum Spanning Tree - Kruskal's Algorithm
+
+<img width="947" height="632" alt="1" src="https://github.com/user-attachments/assets/8e03bd00-4655-4eb0-84e4-4de0004e4d60" />
+
 BFS and DFS for a graph 
 
 <img width="694" height="598" alt="1" src="https://github.com/user-attachments/assets/f66d210c-cc91-47a3-b932-d35c22ffe0c6" />
